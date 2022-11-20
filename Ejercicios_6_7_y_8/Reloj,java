@@ -1,5 +1,0 @@
-public class Reloj {
-    private static Reloj reloj;
-
-    private Reloj();
-}
