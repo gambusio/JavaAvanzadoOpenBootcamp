@@ -1,4 +1,4 @@
-public class CocheImplCombustible extends CocheImpl {
+public class CocheImplCombustible extends CocheImpl implements CocheMotor {
     private float fNivelCombustible;
 
     @Override

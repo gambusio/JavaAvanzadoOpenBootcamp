@@ -1,4 +1,4 @@
-public class CocheImplElectrico extends CocheImpl {
+public class CocheImplElectrico extends CocheImpl implements CocheElectrico {
     private float fCarga;
 
     @Override

@@ -1,4 +1,4 @@
-public class CocheImplHibrido extends CocheImpl {
+public class CocheImplHibrido extends CocheImpl implements CocheElectrico, CocheMotor{
     private float fCarga;
     private float fNivelCombustible;
 
